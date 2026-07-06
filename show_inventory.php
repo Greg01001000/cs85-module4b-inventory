@@ -1,4 +1,6 @@
 <!--CS 85 Module 4, Assignment 4B by Gregory Hagen 7/5/26-->
+<!--GitHub URL: https://github.com/Greg01001000/cs85-module4b-inventory.git -->
+<!--Test URL: http://localhost/cs85_projects/module4b/show_inventory.php -->
 <!DOCTYPE HTML>
 <html lang='en'>
     <head>
